@@ -4,4 +4,4 @@ This repo is used so that I can test python rest APIs to make sure that they are
 
 Results
 ===
-UNKNOWN - has not been tested yet
+UNKNOWN - test in progress...
